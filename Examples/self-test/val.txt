@@ -1,0 +1,4 @@
+val s = "Hey There"
+val i = -25
+val f = 3.14
+val b: boolean = true
